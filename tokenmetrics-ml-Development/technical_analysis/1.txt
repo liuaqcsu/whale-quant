@@ -1,0 +1,15 @@
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_7.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+2019-10-08
+gaft.ConsoleOutputAnalysis   INFO     Generation: 0, best fitness: 0.500, best_individual: [10, 7, 24, 10, 13, 9, 18, 14, 11, 7, 22, 17, 15, 24]
+INFO:gaft.ConsoleOutputAnalysis:Generation: 0, best fitness: 0.500, best_individual: [10, 7, 24, 10, 13, 9, 18, 14, 11, 7, 22, 17, 15, 24]
+gaft.ConsoleOutputAnalysis   INFO     Generation: 1, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+INFO:gaft.ConsoleOutputAnalysis:Generation: 1, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+gaft.ConsoleOutputAnalysis   INFO     Generation: 2, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+INFO:gaft.ConsoleOutputAnalysis:Generation: 2, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+gaft.ConsoleOutputAnalysis   INFO     Generation: 3, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+INFO:gaft.ConsoleOutputAnalysis:Generation: 3, best fitness: 0.558, best_individual: [11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3]
+gaft.FitnessStore   INFO     Best fitness values are written to best_fit.py
+INFO:gaft.FitnessStore:Best fitness values are written to best_fit.py
+gaft.ConsoleOutputAnalysis   INFO     Optimal solution: ([11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3], 0.5576923076923077)
+INFO:gaft.ConsoleOutputAnalysis:Optimal solution: ([11, 8, 19, 1, 14, 17, 20, 9, 15, 3, 6, 17, 5, 3], 0.5576923076923077)

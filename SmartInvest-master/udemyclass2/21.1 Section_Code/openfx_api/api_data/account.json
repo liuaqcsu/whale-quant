@@ -1,0 +1,39 @@
+{
+  "local_request_date": "2023-03-07 08:43:39",
+  "response_data": {
+    "Modified": 1677664996949,
+    "Registered": 1677654012686,
+    "IsTokenCommissionEnabled": false,
+    "IsWebApiEnabled": true,
+    "IsValid": true,
+    "IsReadonly": false,
+    "IsBlocked": false,
+    "IsArchived": false,
+    "Id": 9001990,
+    "Throttling": [
+      {
+        "ConcurrentRequestCount": 100,
+        "RequestsPerSecond": 5,
+        "SessionsPerAccount": 2,
+        "ThrottlingMethods": [],
+        "Protocol": "Rest"
+      }
+    ],
+    "AccountingType": "Gross",
+    "StopOutLevel": 50,
+    "MarginCallLevel": 100,
+    "Margin": 0,
+    "Equity": 49993.48,
+    "Rebate": 0,
+    "Swap": 0,
+    "AgentCommission": 0,
+    "Commission": 0.0,
+    "Profit": 0,
+    "Balance": 49993.48,
+    "Leverage": 50,
+    "ReportCurrency": "USD",
+    "BalanceCurrency": "EUR",
+    "Email": "richard.allbert@gmail.com",
+    "Name": "api testing"
+  }
+}
